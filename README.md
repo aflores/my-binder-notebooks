@@ -1,4 +1,7 @@
 # my-binder-notebooks
-Repo with Jupyter notebooks to run on: https://mybinder.org/
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aflores/my-binder-notebooks/main)
+Jupyter notebooks for the Machine Learning with Tensorflow (second edition) book
+
+At first I wanted to use myBinder.org to host these files but switched to colab 
+
+The files here are code snippets with annotations and not a 100% copy of the code
